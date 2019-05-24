@@ -1,3 +1,10 @@
+## Document Revision History
+|===
+|Version |Revision Date |Description
+
+|v1.0|02 May 2019|First docx2adoc conversion made by Giulia Dall'Aglio
+|===
+
 = OH 1.8.1 User Manual
 :icons: font
 :stem:
