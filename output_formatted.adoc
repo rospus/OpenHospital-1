@@ -1,8 +1,8 @@
 ## Document Revision History
 |===
-|Version |Revision Date |Description
+|Version |Revision Date |Description |Author
 
-|v1.0|02 May 2019|First docx2adoc conversion made by Giulia Dall'Aglio
+|v1.0 |02 May 2019 |First docx2adoc conversion !Giulia Dall'Aglio
 |===
 
 = OH 1.8.1 User Manual
